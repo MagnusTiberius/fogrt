@@ -4,3 +4,9 @@ FogRT is an API/SDK for a decentalized IoT platform. Intended to run close/in pr
 ## Terms
 * Fog Packet - a packet used by and within the Fog Layer.
 * Cloud Packet - packet usedby and within the Cloud.
+
+# Features
+* Decentralized
+* Anonymous
+* Private/Public keys
+* Signatures
