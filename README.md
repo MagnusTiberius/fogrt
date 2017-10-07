@@ -12,3 +12,6 @@ FogRT is an API/SDK for a decentalized IoT platform.
 * Signatures
 * Machine Learning (ML)
 * Natural Language Processing (NLP)
+
+## Related Projects
+* https://github.com/MagnusTiberius/meshnet
